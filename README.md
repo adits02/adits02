@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adits02
+- 👋 Hi, I’m Aditya Rajput...
 - 👀 I’m interested in Cyber Security Analytics
 - 🌱 I’m currently learning Data Structure and algorithms
 - 📫 How to reach me 
