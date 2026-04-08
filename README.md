@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with getting internships<br>🌱 I’m currently learning Python, Django, and concepts of AI <br>⚡ Fun fact i am very curious about my learning Techniques 
+🤝 I’m looking for help with getting new oppotunities<br>🌱 I’m currently learning Python, Django, and concepts of AI <br>⚡ Fun fact i am very curious about my learning new technology..
 
 
 ## 🌐 Socials:
